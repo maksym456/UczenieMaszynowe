@@ -26,7 +26,7 @@ model = Pipeline([
 model.fit(X, y)
 
 # 4. Przykład predykcji
-przyklad = ["Księgowość i doradztwo podatkowe Jan Kowalski"]
+przyklad = ["Ogrodnik i usługi ogrodnicze Jan Kowalski"]
 wynik = model.predict(przyklad)
 
 print("Przewidywana działalność gospodarcza:", wynik[0])

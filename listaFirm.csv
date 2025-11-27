@@ -1,13 +1,876 @@
 NazwaPodmiotu;Nip;Przeważająca działalność gospodarcza
-MARINEX;6111508443;46.73.ZSprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
-AGNES;6111696166;55.20.ZObiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
-AGROMAJSTER FIRMA HANDLOWO USŁUGOWA I TRANSPORTOWA;6110151051;81.30.ZDziałalność usługowa związana z zagospodarowaniem terenów zieleni
-ALUTKA Usługi księgowo-kadrowe;6161531906;69.20.ZDziałalność rachunkowo-księgowa
-AMER- JERZY AUGUST- USŁUGI TAPICERSKIE;6111219259;95.24.ZNaprawa i konserwacja mebli i wyposażenia domowego
-ANDBER PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE;6111344556;45.20.ZKonserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
-ARCHIPROJEKT BIURO PROJEKTOWE;7851153434;71.11.ZDziałalność w zakresie architektury
-AS SKLEP OGÓLNOSPOŻYWCZY;6111612873;47.11.ZSprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
-AUTO LUBAŃSKA;8211720586;45.20.ZKonserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
-BAYOR-AUDIO;6111116111;90.02.ZDziałalność wspomagająca wystawianie przedstawień artystycznych
-BEZPIECZEŃSTWO I EDUKACJA;6111543439;86.90.EPozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
-Black Angel;6111043228;46.42.ZSprzedaż hurtowa odzieży i obuwia
+MARINEX;6111508443.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+AGNES;6111696166.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+AGROMAJSTER FIRMA HANDLOWO USŁUGOWA I TRANSPORTOWA;6110151051.0;Działalność usługowa związana z zagospodarowaniem terenów zieleni
+ALUTKA Usługi księgowo-kadrowe;6161531906.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+AMER- JERZY AUGUST- USŁUGI TAPICERSKIE;6111219259.0;Naprawa i konserwacja mebli i wyposażenia domowego
+ANDBER PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE;6111344556.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+ARCHIPROJEKT BIURO PROJEKTOWE;7851153434.0;Działalność w zakresie architektury
+AS SKLEP OGÓLNOSPOŻYWCZY;6111612873.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+AUTO LUBAŃSKA;8211720586.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+BAYOR-AUDIO;6111116111.0;Działalność wspomagająca wystawianie przedstawień artystycznych
+BEZPIECZEŃSTWO I EDUKACJA;6111543439.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+Black Angel;6111043228.0;Sprzedaż hurtowa odzieży i obuwia
+BOUTIQUE HOTEL JELENIA GÓRA;6112806562.0;Hotele i podobne obiekty zakwaterowania
+CHAMPION FIRMA HANDLOWA;6111072017.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+CHIRURGIA - CIEPLICE;6111160939.0;Praktyka lekarska specjalistyczna
+COLOR STYLIST OLIWIA;6112822779.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+CYBERJELONKI;5541766561.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+DACHY-BRACIA -;6112383794.0;Wykonywanie konstrukcji i pokryć dachowych
+DA-MED DAMIAN MACHAJSKI RATOWNIK MEDYCZNY;6112600116.0;Działalność pogotowia ratunkowego
+DARECKI DARIUSZ MIKULSKI FIRMA HANDLOWO-USŁUGOWA;6111400355.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+DAST;6111716029.0;Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw
+DĄBEK -;6111343841.0;Zakładanie stolarki budowlanej
+DEREX FHU;6111602478.0;Działalność agentów specjalizujących się w sprzedaży pozostałych określonych towarów
+DETAL STUDIO;6112484207.0;Działalność agencji reklamowych
+DOBROWOLSKI;6112315605.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+DOTTY;6111163056.0;Produkcja gotowych wyrobów tekstylnych
+DŹWIGI PROKOP;6112557685.0;Wynajem i dzierżawa maszyn i urządzeń budowlanych
+egeko DORADZTWO FINANSOWO-UBEZPIECZENIOWE;6111428106.0;Działalność agentów i brokerów ubezpieczeniowych
+EGO GABINET PSYCHOLOGICZNY;6111245570.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+EKNA ZAKŁAD SZKLARSKI;6111040129.0;Kształtowanie i obróbka szkła płaskiego
+EKOFER FIRMA WYTWÓRCZO-HANDLOWO-USŁUGOWA;6111402354.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+EKO-KARAT;6111114566.0;Działalność w zakresie specjalistycznego projektowania
+EL INSTAL -;6111138319.0;Wykonywanie instalacji elektrycznych
+ELITA SOLARIUM;6112078743.0;Działalność usługowa związana z poprawą kondycji fizycznej
+EUFORIA;6111304278.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+EVENT SZKOLENIA I CONSULTING BOGUSŁAWA MARTA MALINOWSKA;6391219242.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+FART MICHAŁ SIENIUĆ w spadku;6110107676.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+FINANSE;6111299301.0;Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+FLOWER HOUSE;6111022396.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+FORLAB;6112312570.0;Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne
+FREUNDSCHAFT;6881191522.0;Pomoc społeczna bez zakwaterowania dla osób w podeszłym wieku i osób niepełnosprawnych
+GROSS - NET;6111839795.0;Wykonywanie instalacji elektrycznych
+GRUPA PERFEKTA;6141149026.0;Zakładanie stolarki budowlanej
+GWIAZDA;6111021416.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+HANDEL I USŁUGI;6112314327.0;Działalność agentów i brokerów ubezpieczeniowych
+HOT WATER;6112626469.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+I LOVE BEAUTY -;6112560687.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+IAM;6112217050.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+INTEGRACJA;6112590553.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+IREK;6112323622.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+IST-BUD;6161051477.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+IWONA SPRZEDAŻ PAMIĄTEK I ARTYKUŁÓW DEKORACYJNYCH;6111804704.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+JACKAR;6111780292.0;Sprzedaż hurtowa pozostałych artykułów użytku domowego
+JEŻYK;6111176314.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+KADRY ZAKŁAD SZKOLENIA I USŁUG;6111074298.0;Działalność usługowa związana z administracyjną obsługą biura
+KAROLINA BIURO RACHUNKOWE;6111297259.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+KOMPLEKS +;6151449698.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+KONSTANS;6111189908.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+LEK-MEDICAL USŁUGI PIELĘGNIARSKIE;6111124524.0;Praktyka pielęgniarek i położnych
+LILITH;6111439423.0;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+LINDA WŁADYSŁAW LISOWSKI w spadku;6110001297.0;Transport drogowy towarów
+MAGMAS;6112533785.0;Działalność fizjoterapeutyczna
+MAISON-BUD;6112190983.0;Pozostała sprzedaż detaliczna prowadzona poza siecią sklepową, straganami i targowiskami
+MALMAR;8811041586.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+MARCOS SKLEP & MANUFAKTURA;6112424429.0;Sprzedaż detaliczna kosmetyków i artykułów toaletowych prowadzona w wyspecjalizowanych sklepach
+MARIMED -;6112401061.0;Działalność agentów specjalizujących się w sprzedaży pozostałych określonych towarów
+Mar-Kor Pomoc Drogowa TIR -Wulkanizacja-Mechanika Pojazdowa -;6111093350.0;Działalność usługowa wspomagająca transport lądowy
+MARKUS;6112246689.0;Pomoc społeczna z zakwaterowaniem dla osób w podeszłym wieku i osób niepełnosprawnych
+MARQS;6112306411.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+MATEX;6111039095.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+MEBLE LUX -;6111566400.0;Produkcja mebli kuchennych
+MOTO-SYSTEM;6112665015.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+NATA;6111145302.0;Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+NATURALNIE;6111115169.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+Niepubliczny Zakład Opieki Stomatologicznej;6111097158.0;Praktyka lekarska dentystyczna
+NIERUCHOMOŚCI KARKONOSKIE FHU JAN I ALICJA MIKITA;6111016510.0;Pośrednictwo w obrocie nieruchomościami
+NON-STOP PĘTLA;6112736465.0;Restauracje i inne stałe placówki gastronomiczne
+NOVATIO - DENTIS PRACOWNIA PROTETYCZNA;6111793515.0;Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne
+NOVIS USŁUGI SEKRETARSKIE I UBEZPIECZENIOWE;6111528931.0;Działalność usługowa związana z administracyjną obsługą biura
+OKSI;6112833375.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+OSKAR;6111037587.0;Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
+PAT-OLI;6112223760.0;Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+PETERBUD;6111506585.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+PIKUŚ;6112118193.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+POL - CENTRUM EDUKACYJNO - KULTURALNE;6161406319.0;Nauka języków obcych
+Polmat;6112585948.0;Produkcja nawozów i związków azotowych
+Polska na Weekend.;6111772677.0;Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych
+POŻ-RENOVA- serwis przeciwpożarowy;6160000437.0;Naprawa i konserwacja metalowych wyrobów gotowych
+PRO-100 PROFESJONALNE STOLARSTWO;6112414572.0;Zakładanie stolarki budowlanej
+PROTEC;5222555149.0;Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+PRZYCHODNIA DLA ZWIERZĄT-MEDICOT;8992690784.0;DZIAŁALNOŚĆ WETERYNARYJNA
+RAG - POL;6111082027.0;Sprzedaż hurtowa niewyspecjalizowana
+RAMIT;6111060304.0;Działalność w zakresie telekomunikacji przewodowej
+REH-MED;6112493867.0;Działalność fizjoterapeutyczna
+Rom-Pol;6112509315.0;Transport drogowy towarów
+SEKRET URODY - SALON PIĘKNOŚCI;6112214092.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+SKLEP OGÓLNOSPOŻYWCZY;6111052931.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+SKLEP PRZEMYSŁOWY;6111073873.0;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+SM SERVICES- STUDIO FRYZUR DIVA -;6111121951.0;Działalność usługowa związana z poprawą kondycji fizycznej
+SM-HAP Posadzki Betonowe;6112531562.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+SOB-BUD;6112678029.0;Zakładanie stolarki budowlanej
+SOL;6111141600.0;Działalność ochroniarska, z wyłączeniem obsługi systemów bezpieczeństwa
+STALMAR;6941635521.0;Naprawa i konserwacja metalowych wyrobów gotowych
+SZUWAR;6112180967.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+ŚNIEŻKA;6112547698.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+TAXI FILIP;6112439773.0;Działalność taksówek osobowych
+TED-BUD;6111414340.0;Tynkowanie
+TEK;6111733890.0;Produkcja mebli kuchennych
+TOMAREX FIRMA HANDLOWO-USŁUGOWA;6111073382.0;Sprzedaż hurtowa niewyspecjalizowana
+TOMSUL SULIMIR TOMASZ ELEKTROMECHANIKA POJAZDOWA, WUKLANIZACJA;6111158606.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+TRAMP;8851243304.0;Naprawa i konserwacja komputerów i urządzeń peryferyjnych
+TREND MUSIC;6111049053.0;Artystyczna i literacka działalność twórcza
+TYTAN DACHY, OKNA, DRZWI;6111480851.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+U KOZIOŁKA PIEKARNIA - KOZŁOWSCY IWONA ZDZIAŁAW S.C.;6110101099.0;"Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek"
+U KOZIOŁKA PIEKARNIA - KOZŁOWSCY IWONA ZDZISŁAW S.C.;6111165546.0;"Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek"
+UNIWERSAL;6112669355.0;Sprzedaż hurtowa i detaliczna samochodów osobowych i furgonetek
+VICTUS PRZEDSIĘBIORSTWO-HANDLOWO-USŁUGOWE;6111804503.0;Sprzedaż detaliczna drobnych wyrobów metalowych, farb i szkła prowadzona w wyspecjalizowanych sklepach
+VITEK -;6112377836.0;Rozbiórka i burzenie obiektów budowlanych
+WALDI FRYZJERSTWO MĘSKIE;6111831635.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Walmir Meble na wymiar;6941600066.0;Produkcja mebli kuchennych
+WENA;6112206796.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+WODANSPORT;9121061614.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+WojCar Mechanika pojazdowa -;6112405774.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+Wrocław KIOSK OGÓLNO-WARZYWNY;6131200062.0;Sprzedaż detaliczna owoców i warzyw prowadzona w wyspecjalizowanych sklepach
+XAV-LOGISTIC;6112572609.0;Działalność usługowa związana z przeprowadzkami
+Z.I.E i T Z-D INSTALATORSTWA ELEKTRYCZNEGO I TELEKOMUNIKACJI;6110050491.0;Wykonywanie instalacji elektrycznych
+ZACZAROWANY PARASOL;6111582362.0;Opieka dzienna nad dziećmi
+Zadbany Pupil;6111809937.0;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+ZBYSZEK;6111746964.0;Tynkowanie
+ZWIERZAK;8942660798.0;DZIAŁALNOŚĆ WETERYNARYJNA
+ZYMEK MOTOCYKLE;6112481290.0;Sprzedaż hurtowa i detaliczna motocykli, ich naprawa i konserwacja oraz sprzedaż hurtowa i detaliczna części i akcesoriów do nich
+ŹRÓDŁO;6111780949.0;Praktyka lekarska ogólna
+,, LAS-BUD;6131500870.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+1) GABINET MEDYCYNY ESTETYCZNEJ INDYWIDUALNA PRAKTYKA LEKARSKA LEK. MED. AGATA KREUTZER 2) GABINET REHABILITACJI;6111140753.0;Praktyka lekarska ogólna
+1)ELWOD - PIETRYNIECZ KRZYSZTOF 2) MAŁA ELEKTROWNIA WODNA MEWA;6111589358.0;Wytwarzanie energii elektrycznej
+24H LOGISTICS;6112517941.0;Transport drogowy towarów
+2c Better;6112412337.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+2M PR AGENCJA;6111528256.0;Działalność agencji reklamowych
+3D CAST;6112803026.0;Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne
+A ATELIER, AUTORSKA PRACOWNIA ARCHITEKTURY;6111035281.0;Działalność w zakresie architektury
+A PROJEKT PRACOWNIA ARCHITEKTURY;6111345656.0;Działalność w zakresie architektury
+A&D;6941014888.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+A&S BUD;6112737996.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+A.D.F POLONIA;6111014161.0;Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych
+A.T.MAG;6112141312.0;Obróbka mechaniczna elementów metalowych
+A2 PROJEKT;6141486373.0;Działalność w zakresie architektury
+AB ARCHITEKCI;6112237130.0;Działalność w zakresie architektury
+AB BIURO RACHUNKOWE;6111605502.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+ABC SHOP;6111127758.0;Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+ABGEO USŁUGI GEODEZYJNE;6112527595.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+ABI_Consulting;6111353816.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+ABKOM;6112216719.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+ABN STĘPIEŃ NIERUCHOMOŚCI;6110007176.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+PIZZERIA DALMACIJA;6111797938.0;Restauracje i inne stałe placówki gastronomiczne
+AC Projekt,;6112465612.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+ACCOUNTANT;6112375139.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+ACTIV TEAM;6141330990.0;Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
+ACTIVE GROUP;6111174143.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+AD - DOM;6112541632.0;Zarządzanie nieruchomościami wykonywane na zlecenie
+USŁUGI OGÓLNOBUDOWLANE KUMAN.PL;6161512725.0;Przygotowanie terenu pod budowę
+USŁUGI REMONTOWO-BUDOWLANE ADAM;6111757979.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+TROCKENBAU JG;6112201741.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+DAR - BUD;6112680664.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+P.H.U. SYLVEX;6112302784.0;Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+ADANA;6112278413.0;Restauracje i inne stałe placówki gastronomiczne
+AD-BUD;6112767098.0;Transport drogowy towarów
+Add_Me Office;6112590317.0;Działalność usługowa związana z administracyjną obsługą biura
+Adelina;6112835233.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+ADEX;6112542293.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+ADLA;6111271076.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+ADMIN;6141404659.0;Roboty związane z budową dróg i autostrad
+Administracja i Księgowość;6112378907.0;Działalność usługowa związana z administracyjną obsługą biura
+ADORIS;7952350573.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+ADREM;6111423936.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+Instalacje Sanitarne;6112506162.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+- MEBLOFF;6151475508.0;Działalność agentów zajmujących się sprzedażą mebli, artykułów gospodarstwa domowego i drobnych wyrobów metalowych
+Adwokat Aurelia Koksztys-Łuć Kancelaria Adwokacka;6111152325.0;Działalność prawnicza
+Adwokat Damian Przybysz Kancelarie Adwokackie Jelenia Góra-Boguszów-Gorce-Wałbrzych;8862916528.0;Działalność prawnicza
+AEC INVEST;6111017248.0;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+AESTHETIC;6112815437.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+AGBUD PRZEDSIĘBIORSTWO BUDOWLANO-HANDLOWE;6111140581.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+AGENCJA ARTYSTYCZNA FORTEPIANO;6112129179.0;Działalność związana z wystawianiem przedstawień artystycznych
+AGENCJA DIGITAL MARKETINGU, PR & REKLAMY;6112412082.0;Działalność agencji reklamowych
+Agencja Marketingowa A.W.I.T.;5751304861.0;Działalność portali internetowych
+AGENCJA MODY M;6112258126.0;Działalność agencji reklamowych
+AGENCJA MUZYCZNA ANN MUSIC;6111102652.0;Działalność związana z wystawianiem przedstawień artystycznych
+AGENCJA MUZYCZNA MAG-DA;6111772186.0;Działalność związana z wystawianiem przedstawień artystycznych
+AGENCJA MUZYCZNA ART-MUSIC;8862351693.0;Działalność związana z wystawianiem przedstawień artystycznych
+AGENCJA NIERUCHOMOŚCI RENOMA;6111295450.0;Pośrednictwo w obrocie nieruchomościami
+AGENCJA OCHRONY KRAJEWSKI -;6112804215.0;Działalność ochroniarska, z wyłączeniem obsługi systemów bezpieczeństwa
+AGENCJA UBEZPIECZENIOWA;6110006981.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENCJA USŁUG UBEZPIECZENIOWYCH;6111403589.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6111164593.0;Działalność związana z oceną ryzyka i szacowaniem poniesionych strat
+AGENT UBEZPIECZENIOWY;6111598972.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6111009970.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6111305616.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6112833949.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6111188895.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6111150651.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6112226623.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY;6111121299.0;Działalność agentów i brokerów ubezpieczeniowych
+AGENT UBEZPIECZENIOWY Zdzisław Jan Kowalski;6111162743.0;Działalność agentów i brokerów ubezpieczeniowych
+AGMAR;6111104467.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+AGNES Ewa Lewandowska ul. M. Karłowicza 15B 58-506 Jelenia Góra;6141126290.0;Naprawa pozostałych artykułów użytku osobistego i domowego
+, SPEAK ENGLISH;6112806740.0;Nauka języków obcych
+PRYWATNA PRAKTYKA DENTYSTYCZNA;8322046874.0;Praktyka lekarska dentystyczna
+Beautiful Look;6912268020.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+- GABINET KOSMETOLOGII BEYOND BEAUTY;6112508296.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+kosmetologia i podologia;9552223085.0;Działalność paramedyczna
+Agrade Consulting;6121570633.0;Pośrednictwo w obrocie nieruchomościami
+Agraf;6112148030.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+AGRO - CENTRUM OGRODNICZE;6110152719.0;Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach
+AI Solutions;8992821789.0;Badania naukowe i prace rozwojowe w dziedzinie pozostałych nauk przyrodniczych i technicznych
+AIM;6112186651.0;Działalność usługowa związana z administracyjną obsługą biura
+Airo Software;6112614236.0;Działalność związana z oprogramowaniem
+Aitido;6112770806.0;Działalność związana z doradztwem w zakresie informatyki
+AKADEMIA PODRÓŻY;6111096644.0;Działalność organizatorów turystyki
+AKADEMIA TENISOWA FUN & PLAY;6112675628.0;Pozostała działalność związana ze sportem
+AKCEPT -;6161137138.0;Działalność portali internetowych
+AKMANN;6111092333.0;Naprawa i konserwacja komputerów i urządzeń peryferyjnych
+AKT;6111251145.0;Działalność pilotów wycieczek i przewodników turystycznych
+AKTENA,;6381703278.0;Działalność związana z doradztwem w zakresie informatyki
+AktivMed Rehabilitacja;8842409455.0;Działalność fizjoterapeutyczna
+AKWEDUKT FIRMA USŁUGOWO - HANDLOWA;6111099648.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+AlaPrint;6112555686.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+ALB-HEN;6112371489.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+ALBRO-TRANS;6112590524.0;Transport drogowy towarów
+ALCHIMOWICZBIKE;8871701655.0;Naprawa i konserwacja pozostałego sprzętu i wyposażenia
+ALDO-DENT;6771689468.0;Praktyka lekarska dentystyczna
+GABINET KOSMETYCZNY;6112196075.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Gab. psychologiczno-psychoterapeutyczny;6112366962.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+Taxi Osobowe;6112711778.0;Działalność taksówek osobowych
+Usługi Fizjoterapeutyczne;6112715210.0;Działalność fizjoterapeutyczna
+ALEPRZEWOZ;6112701254.0;Transport drogowy towarów
+ALFACONE;9161305904.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+ALFATECH;6111478305.0;Wykonywanie instalacji elektrycznych
+ALGA;6111030496.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+- The Body Studio;6112828902.0;Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
+ALJA;6112817873.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+ALKATECH - ELEKTRONICZNE SYSTEMY ZABEZPIECZEŃ;6112109679.0;Wykonywanie instalacji elektrycznych
+ALLSENSES;6112598980.0;Działalność związana z oprogramowaniem
+ALMAG;6112178901.0;Obróbka mechaniczna elementów metalowych
+ALMAX;6111045552.0;Kupno i sprzedaż nieruchomości na własny rachunek
+ALNIKO;6112727696.0;Zbieranie odpadów innych niż niebezpieczne
+ALTANKA CAFFE-;6112789680.0;Restauracje i inne stałe placówki gastronomiczne
+ALTERNATIVA;6141506377.0;Działalność w zakresie specjalistycznego projektowania
+ALT GROUP;6151851265.0;Sprzedaż detaliczna pozostałych wyrobów prowadzona na straganach i targowiskach
+ALZER MEBLE NA WYMIAR;6951424056.0;Produkcja mebli kuchennych
+AM GROUP;6112737677.0;Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
+AMBASADA OBUWIA;6112498830.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+AMBASADA URODY;6111043091.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+AMBER A. R. Mazur;6111543899.0;Sprzedaż hurtowa napojów alkoholowych
+- Obsługa Administracyjna, Projektowanie i Nadzorowanie w Budownictwie;6111081743.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+AM-Bud;6110200424.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+AMC AUTO TEAM MECHANIKA POJAZDOWA;6112378764.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AMICUS;6112306380.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+Amkara;6112680374.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+AMPER - INSTAL;6112634865.0;Wykonywanie instalacji elektrycznych
+AMTG Biuro Geodezji;6112455358.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+HANDEL, USŁUGI;6111049165.0;Sprzedaż hurtowa odzieży i obuwia
+UBG;6111569812.0;Działalność usługowa związana z administracyjną obsługą biura
+Master Jet;6111270361.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+Usługi Brukarskie;7352205710.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+Andrzej Paweł Bonio Studio Bonio Reklama Poligrafia;6111751184.0;Działalność agencji reklamowych
+ZAKŁAD BUDOWLANO-USŁUGOWO-PRODUKCYJNY;6111398434.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+PPHU KABORA;6111574291.0;Działalność agentów i brokerów ubezpieczeniowych
+- BIURO UBEZPIECZENIOWE - POŚREDNICTWO KREDYTOWE MEGA;6112272511.0;Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe
+- STUDIO NOVA;6112814544.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+ANGELA SUN;6111260090.0;Działalność usługowa związana z poprawą kondycji fizycznej
+ANICOR PLUS,;8151496457.0;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+ANIOLA FIRMA USŁUGOWA;9552392965.0;Działalność usługowa związana z administracyjną obsługą biura
+FIRMA HANDLOWO-USŁUGOWA PERFECT;6140003846.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+ANMAKUR;6112657903.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+WYJAZDOWA PRAKTYKA LEKARSKA;9590913544.0;Praktyka lekarska ogólna
+PSYCHOLOG ŚLEDCZY;6112716155.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+STUDIO ELITA;8811466877.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Anna Maria Wilczyńska Tłumacz przysięgły języka niemieckiego;6972165039.0;Działalność związana z tłumaczeniami
+RESCUE TEAM;6112433210.0;Działalność pogotowia ratunkowego
+BAR TEST;6111760929.0;Przygotowywanie i podawanie napojów
+APTEKA W CIEPLICACH;8992820494.0;Sprzedaż detaliczna wyrobów farmaceutycznych prowadzona w wyspecjalizowanych sklepach
+OPIEKA;6112334270.0;Pomoc społeczna bez zakwaterowania dla osób w podeszłym wieku i osób niepełnosprawnych
+Anoa Animation;6112824005.0;Działalność postprodukcyjna związana z filmami, nagraniami wideo i programami telewizyjnymi
+AK-Profi Auto Serwis-Naprawa;6112837433.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+DIGIFON;6111013635.0;Sprzedaż detaliczna wyrobów medycznych, włączając ortopedyczne, prowadzona w wyspecjalizowanych sklepach
+FIRMA HANDLOWA OGRODNIK;6111070076.0;Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach
+APART SERWIS;6112305506.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+APARTAMENTY;6111276688.0;Pozostała sprzedaż detaliczna prowadzona poza siecią sklepową, straganami i targowiskami
+APARTAMENTY LAMBERT;6112319336.0;Sprzedaż hurtowa i detaliczna samochodów osobowych i furgonetek
+Apartamenty Lemon Pepper;5961633157.0;Hotele i podobne obiekty zakwaterowania
+APARTAMENTY MAJOWA;6161545340.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+Aparttime;6112434014.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+AppsCraft;6112809483.0;Działalność związana z oprogramowaniem
+ARBUD;6111767854.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+ARBUD;6112425400.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+ArCADa STUDIO ARCHITEKTONICZNE;6111345716.0;Działalność w zakresie architektury
+ARCHITEKTURA;6112694301.0;Działalność w zakresie architektury
+ARCUM;6110200074.0;Sprzedaż hurtowa niewyspecjalizowana
+AREA ZARZĄDZANIE NIERUCHOMOŚCIAMI;6111100601.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+ARGO - PRACOWNIA ARCHEOLOGICZNO-KONSERWATORSKA;6111134646.0;Badania naukowe i prace rozwojowe w dziedzinie nauk społecznych i humanistycznych
+ARKADIA MASAŻ;6112613863.0;Działalność fizjoterapeutyczna
+KARKONOSCY STOLARZE;8861963661.0;Zakładanie stolarki budowlanej
+Sudety Gastro;8811479130.0;Ruchome placówki gastronomiczne
+HYDROARO;6112254105.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+Usługi Stolarskie;6111334813.0;Produkcja mebli kuchennych
+AR-MED;6112370254.0;Działalność pogotowia ratunkowego
+Aron-Trans;6111265940.0;Transport drogowy towarów
+ARROW - BIS;6112115148.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+ARS COMMUNICATION inż.;6112438590.0;Wykonywanie instalacji elektrycznych
+ART DOM;6112289003.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+ART-BAU;6112797260.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+ART-BRUK;6821669575.0;Tynkowanie
+ART-BUD PARTNER;8331222224.0;Zakładanie stolarki budowlanej
+ART-DOM;6110050315.0;Kupno i sprzedaż nieruchomości na własny rachunek
+arteHouse;6112281444.0;Produkcja mebli kuchennych
+ART-MONT;6111081134.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+Artretro;6112307416.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+USŁUGI FINANSOWE;8831118139.0;Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+GABINET MASAŻU I FIZYKOTERAPII;6111796264.0;Działalność fizjoterapeutyczna
+- PRAKTYKA LEKARSKA;8991624526.0;Praktyka lekarska specjalistyczna
+ARTYKUŁY PRZEMYSŁOWE, PRASA I WYDAWNICTWA, HURT, DETAL;6111602857.0;Działalność agentów zajmujących się sprzedażą żywności, napojów i wyrobów tytoniowych
+AS - tur CENTRUM TURYSTYKI;6110108807.0;Działalność organizatorów turystyki
+AS.;6111145733.0;Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+ASANTE SANA;6112672825.0;Sprzedaż hurtowa herbaty, kawy, kakao i przypraw
+ASAP;6112425156.0;Produkcja konstrukcji metalowych i ich części
+AS-BUD;6112140235.0;Tynkowanie
+ASHI GABINET PODOLOGICZNY;7262329058.0;Działalność paramedyczna
+Aspex;6151748171.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+ASPIM;6111323614.0;Zakładanie stolarki budowlanej
+OŚRODEK SZKOLENIA KIEROWCÓW,,ANDRZEJEWSKI;6111636371.0;Pozaszkolne formy edukacji z zakresu nauki jazdy i pilotażu
+AT FIRMA OGÓLNOBUDOWLANA;6112832370.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+AT PLAST;6161467999.0;Sprzedaż hurtowa wyrobów chemicznych
+ATAKSPORT;6111686854.0;Działalność agentów zajmujących się sprzedażą wyrobów tekstylnych, odzieży, wyrobów futrzarskich, obuwia i artykułów skórzanych
+ATE;6112809477.0;Działalność w zakresie specjalistycznego projektowania
+Atelier Igła&Nitka;6112672110.0;Naprawa pozostałych artykułów użytku osobistego i domowego
+ATELIER STYLU;6111170145.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+ATELIER URODY;8991833023.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+ATM;6111401426.0;Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach
+ATM;6112593988.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+AUDYT -;6111459354.0;Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+AUTO - KACZMAREK;6111750629.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO - MIX;6112054004.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO - SERVICE;6111104964.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO CZĘŚCI;6111435477.0;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+AUTO DETAILING;6112524059.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO LEWAR;6112131058.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO NAPRAWA - SERWIS OPON -;6111018029.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO NAPRAWA;6111675129.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO NAPRAWA REMIK;6111073844.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO SERWIS;6111038316.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO WGNIECENIA;6112428798.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO-CAMPING PARK USŁUGI HOTELARSKIE;6111020776.0;Pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe
+AUTO-HALE;6111091888.0;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+Automatic and control;6112799230.0;Działalność wydawnicza w zakresie pozostałego oprogramowania
+AUTOMOTIV SERWIS;6112799833.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTOPUNKT;6112451432.0;Naprawa i konserwacja maszyn
+AUTO-SZYBY SERVIS;6112463412.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AUTO-TEST;6111429548.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AVALANCHE;6112416335.0;Sprzedaż detaliczna sprzętu sportowego prowadzona w wyspecjalizowanych sklepach
+B&K CAR SERVICE;6112173944.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+B.R. Experience -;6112093955.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+B.S. DUB;6112161266.0;Tynkowanie
+B53;6111587299.0;Działalność usługowa związana z administracyjną obsługą biura
+UNIWEX PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE;6911493878.0;Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych
+ELEKTRO-INSTAL ZAKŁAD REMONTOWO-BUDOWLANY. IMPORT-EKSPORT;6111799251.0;Wykonywanie instalacji elektrycznych
+TROL;6111265437.0;Produkcja pozostałej odzieży wierzchniej
+PBSOFT USŁUGI KOMPUTEROWE;6111808518.0;Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych
+P.P.H.U. MATIS;7431316817.0;Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
+Balloon Expedition;5222766260.0;Działalność organizatorów turystyki
+FIRMA HANDLOWO-USŁUGOWA EROTIC;6112211171.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+BAR 21;6111269582.0;Przygotowywanie i podawanie napojów
+BAR GRATKA;6131481931.0;Restauracje i inne stałe placówki gastronomiczne
+BAR PIZZERIA TOKAJ;6111069713.0;Restauracje i inne stałe placówki gastronomiczne
+Bar Restauracyjny KLUBOWA;6110006521.0;Przygotowywanie i podawanie napojów
+BAR RYNECZEK ZABOBRZE;6112279766.0;Restauracje i inne stałe placówki gastronomiczne
+AGNESS-POL PRYWATNE PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE;6111008829.0;Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych
+SEKO-TECH - FIRMA USŁUGOWA;6111173468.0;Wykonywanie instalacji elektrycznych
+Indywidualna Praktyka Lekarska;6112614667.0;Praktyka lekarska ogólna
+BARBERSHOP;6112819636.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BARBERSHOP;9820346392.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BARMEY;6111109192.0;Działalność agentów zajmujących się sprzedażą maszyn, urządzeń przemysłowych, statków i samolotów
+BART -;6112805611.0;Pozostała działalność pocztowa i kurierska
+B-ART;7742272507.0;Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+FIRMA HANDLOWO-TRANSPORTOWA;6111794271.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+BARTEX - AUTO SERWIS;6111696574.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+SALON FRYZJERSKI BODA;6111578260.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+PRZEDSIĘBIORSTWO PRODUKCYJNO - HANDLOWO - USŁUGOWE;6112451320.0;Tynkowanie
+KAS - ON;6111127296.0;Działalność usługowa związana z przeprowadzkami
+Usługi budowlane;6112572070.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+PROGRAMOWANIE;6112186220.0;Działalność związana z oprogramowaniem
+BASTEK;6111144969.0;Transport drogowy towarów
+INDYWIDUALNA PRAKTYKA PIELĘGNIARSKA;6111394241.0;Praktyka pielęgniarek i położnych
+NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ PRZYCHODNIA CIEPLICE;6111028068.0;Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne
+PRZEDSIĘBIORSTWO WIELOBRANŻOWE BEROMA;6111001678.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+HOME&SPA;6141251204.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+WALTER;9371567958.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+BEAUTY BY PAOLKA;7722423707.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BEAUTY EXPERT;6112699758.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BEAUTY FACTORY;6112711465.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Beauty Koncept;6112546434.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Beauty Lab;6161576062.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Beautycorner;6112802570.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BEBELLA;8862693293.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+DAR-TRANS;6112365891.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+INDYWIDUALNA PRAKTYKA PIELĘGNIARSKA;6111418361.0;Praktyka pielęgniarek i położnych
+IZJAK;6111013440.0;Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+BELEZA STUDIO;6112808070.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BELIMO;6112620490.0;Realizacja projektów budowlanych związanych ze wznoszeniem budynków
+Bella Ty;6112679589.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Bellissima Gabinet Kosmetyczny;6112421365.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BENSAM;6111088521.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+INDYWIDUALNA SPECJALISTYCZNA PRAKTYKA LEKARSKA PRYWATNY GABINET STOMATOLOGICZNY SPECJALISTA CHIRURGII STOMATOL;5961055789.0;Praktyka lekarska dentystyczna
+INDYWIDUALNA PRAKTYKA LEKARSKA GABINET STOMATOLOGICZNY;6112177103.0;Praktyka lekarska dentystyczna
+ABEBE BIURO PROMOCJI I MARKETINGU;6111118127.0;Sprzedaż detaliczna gazet i artykułów piśmiennych prowadzona w wyspecjalizowanych sklepach
+TRANSPORT OSOBOWO TOWAROWY;6111019276.0;Pozostały transport lądowy pasażerski, gdzie indziej niesklasyfikowany
+BEST - MIX -;6111550959.0;Zakładanie stolarki budowlanej
+BEST ENGLISH;6951319968.0;Nauka języków obcych
+BEST INVEST NIERUCHOMOŚCI;9720998327.0;Pośrednictwo w obrocie nieruchomościami
+bestfriend;6151973778.0;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+Better;7811944112.0;Praktyka lekarska dentystyczna
+BHP i PPoż;8811038561.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+USŁUGI HOTELARSKIE;6110150175.0;Hotele i podobne obiekty zakwaterowania
+UNIBO;6111154577.0;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+PBETON;6111393201.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+FIRMA HANDLOWO-USŁUGOWA BIAŁY DOM;6111351786.0;Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+BIASKO;6111629224.0;Naprawa i konserwacja metalowych wyrobów gotowych
+AUTO-BIELAWSKI;6112199895.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+FIRMA HANDLOWA OKTA;6111006888.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+FIRMA BUDOWLANO-HANDLOWA;6111166474.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+BIELIŹNIAK;6111649675.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+BIEN' PRACOWNIA KINEZYTERAPII;6112496653.0;Działalność fizjoterapeutyczna
+AUTO SERWIS BIENIASZ;6111373865.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+PPHU TRAPER;6111301529.0;Działalność usługowa związana z leśnictwem
+GABINET PSYCHOTERAPII;6111110137.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+FIRMA HANDLOWO-USŁUGOWA BIURO-SYSTEM;6111232254.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+BIGSYSTEM;6112282188.0;Działalność agencji reklamowych
+DROG MOST;6111135315.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+RAFAŁ BIJAN INSTALACJA CO I WODNO-SANITARNE;6112232405.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+BIS;6111507455.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+BIURO FORTUNA;6111417692.0;Działalność agentów i brokerów ubezpieczeniowych
+BIURO ARCHITEKTONICZNO-CONSULTINGOWE BIARCO;6110001707.0;Działalność w zakresie architektury
+BIURO BROKERSKIE;6111008769.0;Działalność agentów i brokerów ubezpieczeniowych
+BIURO CENTRUM ANDRZEJ RUCIŃSKI W UPADŁOŚCI LIKWIDACYJNEJ;6111011228.0;Pozostałe drukowanie
+BIURO HANDLOWE GALLA;6111005736.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+BIURO INŻYNIERII LĄDOWEJ K-B;6141506526.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+BIURO INŻYNIERII ŚRODOWISKA;6112400653.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+BIURO INŻYNIERSKIE-KONSTRUKCJE BUDOWLANE;6111363329.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+BIURO KONSULTACYJNO-PROJEKTOWE;6111501895.0;Działalność w zakresie architektury
+BIURO NIERUCHOMOŚCI;6921983940.0;Pośrednictwo w obrocie nieruchomościami
+Biuro Obsługi Nieruchomości Administrator;6111721036.0;Zarządzanie nieruchomościami wykonywane na zlecenie
+BIURO PODRÓŻY ESKAPADA;6111291920.0;Działalność agentów turystycznych
+Biuro Pośrednictwa w Obrocie Nieruchomościami GOLD HOUSE;9281310109.0;Pośrednictwo w obrocie nieruchomościami
+Biuro Pośrednictwa w Obrocie Nieruchomościami GOLD HOUSE;6111526576.0;Pośrednictwo w obrocie nieruchomościami
+BIURO PROJEKTOWE INWEST-DOM;6110112542.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+BIURO PROJEKTOWE FORUM - PROJEKT;6111092600.0;Działalność w zakresie architektury
+BIURO RACHUNKOWE CENTRUM BIZNESU;6112266982.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+Biuro Rachunkowe ES;6112404898.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE BILANS;6111466331.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE CALCULUS;6111412080.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+Biuro Rachunkowe CONTABILE;6112420489.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE HALINA;6111134155.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE KO-ALA;6111304798.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+Biuro Rachunkowe Mar-Tax;6112520363.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+Biuro Rachunkowe Na plus;6121105729.0;Działalność fotograficzna
+BIURO RACHUNKOWE SYLWIA;6111072767.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6111420398.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;5981269329.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+Biuro Rachunkowe;6112498824.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE BILANS -;6111136929.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE BRS;6111836839.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+Biuro Rachunkowe DATA;6111232521.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE DORADZTWO PODATKOWE LIBRUM S.C;6111080637.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6111088662.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6111273980.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6111206280.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE FISKUS;6111517531.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6110005958.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6110005102.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE JUKOMA;6111238156.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6111051742.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6110050290.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6110005131.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6112311464.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6110152837.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;8861142496.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE MGR;6111073962.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6111069707.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE OPTIMUM;6112668338.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE RACHMISTRZ;6111143875.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWE;6111224361.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+Biuro Rachunkowe;6112122846.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RACHUNKOWO-DORADCZE REJESTR;6111231071.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BIURO RZECZOZNAWSTWA TECHNICZNEGO;6111191147.0;Działalność w zakresie architektury
+BIURO TURYSTYCZNE MARKO;7531005577.0;Działalność organizatorów turystyki
+BIURO UBEZPIECZENIOWE PROGRESS B.P.;6111299092.0;Działalność agentów i brokerów ubezpieczeniowych
+BIURO UBEZPIECZEŃ;6141424952.0;Działalność agentów i brokerów ubezpieczeniowych
+Biuro Usług Menadżer inż.;6161107723.0;Działalność w zakresie architektury
+BIURO USŁUG KSIĘGOWYCH I BADAŃ BILANSÓW;6111014853.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+GASTRONOM;6111679713.0;Ruchome placówki gastronomiczne
+BIZZART STUDIO;6112807691.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BK Biuro Rachunkowe;6112367418.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+BKS;6112794882.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+BLACHARSTWO SAMOCHODOWE;6111613588.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+BLACK GLASS GROUP;8842617998.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+BLICK-PUNKT;6851979470.0;Sprzedaż hurtowa pozostałych artykułów użytku domowego
+BlondArte;6112655809.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+FIRMA HANDLOWO-USŁUGOWA;6112115705.0;Sprzedaż hurtowa zboża, nieprzetworzonego tytoniu, nasion i pasz dla zwierząt
+BŁYSK FIRMA PORZĄDKOWA;6111466874.0;Działalność pomocnicza związana z utrzymaniem porządku w budynkach
+BM PROJEKT;6931216998.0;Zarządzanie nieruchomościami wykonywane na zlecenie
+BNB;6112793457.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+ZAKŁAD ELEKTROMECHANICZNY;6111040572.0;Instalowanie maszyn przemysłowych, sprzętu i wyposażenia
+BODY AND MIND;6112833493.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+BOG.KRUK.;6111776764.0;Produkcja aparatury rozdzielczej i sterowniczej energii elektrycznej
+FIRMA USŁUGOWA;6111767222.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+INDYWIDUALNA SPECJALISTYCZNA PRAKTYKA LEKARSKA;6111026951.0;Praktyka lekarska specjalistyczna
+MikroBajt;6111473408.0;Działalność związana z oprogramowaniem
+PEDIATRA - WIZYTY DOMOWE;6111493581.0;Praktyka lekarska specjalistyczna
+INDYWIDUALNA SPECJALISTYCZNA PRAKTYKA LEKARSKA CHIRURGIA DZIECIĘCA;6111401685.0;Praktyka lekarska specjalistyczna
+BOK-BUD USŁUGI REMONTOWO BUDOWLANE;6111248806.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+BOLLE BLU PRALNIA;6112776619.0;Pranie i czyszczenie wyrobów włókienniczych i futrzarskich
+PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWE;6111846565.0;Obróbka mechaniczna elementów metalowych
+OSK BONIO;6112455387.0;Pozaszkolne formy edukacji z zakresu nauki jazdy i pilotażu
+BONIOTIR;6112576814.0;Transport drogowy towarów
+Log & OR BIURO USŁUGOWO-HANDLOWE;6111541400.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+FIRMA HANDLOWA;6111382404.0;Działalność agentów i brokerów ubezpieczeniowych
+BOŻENA;6111713901.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+BRAMGÓR;6111897309.0;Produkcja pozostałej odzieży wierzchniej
+BRAND;6111785160.0;Działalność w zakresie nagrań dźwiękowych i muzycznych
+FIRMA HANDLOWO-USŁUGOWA;6112233540.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+BRA-WO;6112624938.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+BRESGO;6112612881.0;Działalność agencji reklamowych
+FIRMA HANDLOWA;6112148627.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+Broker Ubezpieczeniowy;6111295740.0;Działalność agentów i brokerów ubezpieczeniowych
+Browist.;6112829741.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+BRUKERS WSZYSTKO SIĘ UŁOŻY;6161374482.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+BRYGADA RR;6112077672.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+HANDEL OBWOŹNY;6111659805.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+STROJENIE I NAPRAWA INSTRUMENTÓW MUZYCZNYCH-KLAWISZOWYCH;6111036116.0;Naprawa pozostałych artykułów użytku osobistego i domowego
+P.P.H.U. PIK - CAR;6112643806.0;Sprzedaż hurtowa i detaliczna samochodów osobowych i furgonetek
+STALEJ;6112276710.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+BUD - ANNA;6112585807.0;Tynkowanie
+BUD;5581669373.0;Transport drogowy towarów
+BUD-DOM -;6112631861.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+BUDMAGD USŁUGI OGÓLNOBUDOWLANE;6111295444.0;Tynkowanie
+BUD-MAJSTER;6112654750.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+BUD-REM;6112355562.0;Wykonywanie konstrukcji i pokryć dachowych
+F H U BIS;6112097284.0;Działalność związana z oprogramowaniem
+CBD;6112231802.0;Roboty związane z budową dróg i autostrad
+KONTAKTY PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE;6111501317.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+FIRMA HANDLOWO-USŁUGOWA A i P;9121601306.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+MIKROTERM -;6111026738.0;Roboty związane z budową rurociągów przesyłowych i sieci rozdzielczych
+ZAKŁAD WYTWARZANIA OPAKOWAŃ Z TEKTURY I KARTONU;6110153386.0;Produkcja papieru falistego i tektury falistej oraz opakowań z papieru i tektury
+SEKTOR;6111401716.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+MARCUS;6110150040.0;Produkcja pozostałej odzieży i dodatków do odzieży
+BUSINESS COACHING;6112567034.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+MATT PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWO-HANDLOWE;6112170992.0;Produkcja pozostałej odzieży wierzchniej
+BW HYDRAULIKA SIŁOWA;6112802771.0;Naprawa i konserwacja maszyn
+BYTEAR;6112834682.0;Działalność związana z oprogramowaniem
+PAWEŁ PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE;6111023467.0;Specjalistyczne sprzątanie budynków i obiektów przemysłowych
+BYTNAR;6112559023.0;Tynkowanie
+BZK COMPUTERS;6112715049.0;Naprawa i konserwacja komputerów i urządzeń peryferyjnych
+CAFEINA;6511553536.0;Przygotowywanie i podawanie napojów
+Caffeo -;6112824241.0;Naprawa i konserwacja maszyn
+PRAKTYKA LEKARSKA;8862837094.0;Praktyka lekarska ogólna
+CALENS Piotr Patryk Kononiuk;5631821878.0;Ruchome placówki gastronomiczne
+KWIACIARNIA HOKUS- POKUS;6111044340.0;Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach
+CAMELEON IT;6112535502.0;Działalność związana z doradztwem w zakresie informatyki
+CAR - MAR;6111164096.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+CARAMELLO-BIKE;6111728133.0;Naprawa pozostałych artykułów użytku osobistego i domowego
+CARE & CASH;8951984810.0;Działalność usługowa związana z administracyjną obsługą biura
+CAREX FRUITS;6110112619.0;Sprzedaż hurtowa owoców i warzyw
+CASA BLANCA;6111239204.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+CCS;6112815791.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+CD System;6112417961.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+CDK MERITUM;6111778154.0;Pozostała finansowa działalność usługowa, gdzie indziej niesklasyfikowana, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE CECH;6112191706.0;Sprzedaż hurtowa pozostałych artykułów użytku domowego
+CEDiM;6111334262.0;Działalność związana z oprogramowaniem
+CelArt;6111309117.0;Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+Centrum Edukacji Muzycznej i Terapii. Usługi muzyczne;6161450355.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+CENTRUM ELEKTRONARZĘDZI I MATERIAŁÓW BUDOWLANYCH CENTROBUD 1;6111734317.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+CENTRUM JĘZYKOWE FANN;6112562574.0;Nauka języków obcych
+CENTRUM;6111831138.0;Ruchome placówki gastronomiczne
+CENTRUM KOREPETYCJI KOR-Ala;6111056685.0;Nauka języków obcych
+CENTRUM KOREPETYCJI PACKERS;9111023463.0;Produkcja opakowań drewnianych
+CENTRUM KOSMETOLOGII RENII;6111644347.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+Centrum Medyczne CerviMed;6112599241.0;Praktyka lekarska specjalistyczna
+CENTRUM MOTOCYKLOWE;6111013173.0;Sprzedaż hurtowa i detaliczna motocykli, ich naprawa i konserwacja oraz sprzedaż hurtowa i detaliczna części i akcesoriów do nich
+Centrum Nauki GENIUS;6112522391.0;Nauka języków obcych
+Centrum Rehabilitacji Medycznej Medicor;6111307526.0;Działalność fizjoterapeutyczna
+CENTRUM REHABILITACJI SPORTOWEJ;8751476606.0;Działalność fizjoterapeutyczna
+CENTRUM SZKOLENIA;6111332547.0;Pozaszkolne formy edukacji z zakresu nauki jazdy i pilotażu
+CENTRUM ŚWIATOWEJ DOMINACJI;7543052306.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+CENTRUM TERAPII WAD POSTAWY;6112834050.0;Działalność fizjoterapeutyczna
+Centrum Ubezpieczeń;6112462921.0;Działalność agentów i brokerów ubezpieczeniowych
+CENTRUM URODY SELECTIVE;6112456984.0;Działalność usługowa związana z poprawą kondycji fizycznej
+Centrum Zdrowych Stóp-;6112616695.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+CerviFin;6112597207.0;Działalność usługowa związana z administracyjną obsługą biura
+CFO DORADCA;9251201166.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+CFO HANDEL KONCESJONOWANY;9251261889.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+JAN-JAR;6111610408.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+LUCKY JOKER;6112675083.0;Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
+LECZNICA DLA ZWIERZĄT;8951365716.0;DZIAŁALNOŚĆ WETERYNARYJNA
+PRZEDSIĘBIORSTWO PRODUKCYJNO - HANDLOWE;6110000808.0;Produkcja opakowań z tworzyw sztucznych
+F.H.U. MARGOT;6111318808.0;Pozostała działalność wspomagająca prowadzenie działalności gospodarczej, gdzie indziej niesklasyfikowana
+CHIC & SHABBY, SECOND HAND I NOWE,;6112207005.0;Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+USŁUGI PROJEKTOWE - DORADZTWO I NADZÓR BUDOWLANY;6111069788.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+BIURO ZABEZPIECZEŃ PRZECIWPOŻAROWYCH;6111239428.0;Działalność w zakresie architektury
+RENUS FIRMA HANDLOWO-USŁUGOWA;6111020380.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+FIRMA HANDLOWO USŁUGOWA DUET;6111341173.0;Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
+FART;6111348548.0;Sprzedaż hurtowa niewyspecjalizowana
+SPEC BIURO RACHUNKOWE;6110006685.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+PRZEDSIĘBIORSTWO PRODUKCYJNO-HANDLOWO-USŁUGOWE;6111070604.0;Sprzedaż detaliczna pozostałych wyrobów prowadzona na straganach i targowiskach
+TECHBUD;6112244199.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+ZAKŁAD USŁUGOWO-HANDLOWY AUTO-BOX;6111185017.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+EURO 90 TRAVEL;6110112890.0;Działalność organizatorów turystyki
+KAWIARNIA SONATA;6112309088.0;Restauracje i inne stałe placówki gastronomiczne
+PRZEDSIĘBIORSTWO USŁUGOWO-HANDLOWE ZIBI;6112111506.0;Transport drogowy towarów
+LIGOSZ;6110104577.0;Sprzedaż hurtowa niewyspecjalizowana
+HANDEL - MARKETING;5211011670.0;Sprzedaż hurtowa pozostałych artykułów użytku domowego
+Ciesielstwo - Dekarstwo;6112543364.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+ZAKŁAD USŁUGOWO - BUDOWLANY;6111440515.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+TAXI OSOBOWE;6111655641.0;Działalność taksówek osobowych
+CLEAN EXPERT - USŁUGI PORZĄDKOWE;6131523575.0;Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
+CLEAN LINES;6112820964.0;Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
+Clean Quality;6112205207.0;Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
+CM;9141536960.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+CMS CONSULTING;6110001156.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+CNCTec;6112419782.0;Obróbka mechaniczna elementów metalowych
+COCACABANA;6111161815.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+CoDelivery;6112786440.0;Działalność związana z oprogramowaniem
+CODEPIK;6112810345.0;Działalność związana z oprogramowaniem
+COKBUD;6112228332.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+COLORLOVE WŁOSY -;8531479560.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+COMFORT LUX;6112813987.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+COMPLET;7821421700.0;Działalność usługowa związana z administracyjną obsługą biura
+COMPOSITECH;6111549413.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+COMPUTEROWIEC -;6112260347.0;Naprawa i konserwacja komputerów i urządzeń peryferyjnych
+CONSI.ART;6112242349.0;Działalność pogotowia ratunkowego
+CONSULTING - PROJECT;6111058483.0;Działalność w zakresie architektury
+CONTADOR;8942475629.0;Pozostała działalność rozrywkowa i rekreacyjna, gdzie indziej niesklasyfikowana
+CORFARB;6111589252.0;Sprzedaż hurtowa wyrobów chemicznych
+CRAZY FIT;6151888647.0;Działalność usługowa związana z poprawą kondycji fizycznej
+CREATIVE IDEAS;6111897806.0;Działalność związana z oprogramowaniem
+CREDIT;6112472339.0;Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+CRIMSON BRICK;7343372288.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+Crujiente;6112560405.0;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+CUBE;6112523858.0;Działalność w zakresie specjalistycznego projektowania
+CUD MIÓD MALINA - SALON URODY;6112539552.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+CUD muzykoterapii;6111300518.0;Działalność paramedyczna
+CUK UBEZPIECZENIA;6111093083.0;Działalność agentów i brokerów ubezpieczeniowych
+CUKIERNIA JULA;6112228444.0;"Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek"
+CUKIERNIA MERKURY;6111760533.0;"Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek"
+cukru.coffee;6951451001.0;Przetwórstwo herbaty i kawy
+OPTYKA OKULAROWA CURYŁO;6111154169.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+CX GROUP;8291167481.0;Sprzedaż hurtowa niewyspecjalizowana
+POŚREDNICTWO UBEZPIECZENIOWE;6111590930.0;Działalność agentów i brokerów ubezpieczeniowych
+ASEKO - USŁUGI EKOLOGICZNE;6111078646.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+SAT SYSTEMS;6110000820.0;Sprzedaż hurtowa niewyspecjalizowana
+ROBEX-FRUITS;6111043808.0;Transport drogowy towarów
+CAYYAR;6111603644.0;Działalność związana z oprogramowaniem
+INDYWIDUALNA PRAKTYKA LEKARSKA WOJCIECH BOŻYDAR CZERNIAWSKI;6112305802.0;Praktyka lekarska ogólna
+NOWA PAMELA PRZEDSIĘBIORSTWO HANDLOWE;6111018354.0;Przygotowywanie i podawanie napojów
+CZERWONA WALIZKA;6612089589.0;Działalność związana z wystawianiem przedstawień artystycznych
+USŁUGI-MAR;6111609397.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+CZĘŚCI - USA. COM.PL;6112256185.0;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+CZ-PL;6941553094.0;Działalność związana z tłumaczeniami
+CZYSTE ZĘBY;6112056859.0;Sprzedaż detaliczna kosmetyków i artykułów toaletowych prowadzona w wyspecjalizowanych sklepach
+AUTO CZĘŚCI;6111043607.0;Sprzedaż hurtowa części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+KANCELARIA RADCY PRAWNEGO;6111730288.0;Działalność prawnicza
+GABINET LEKARSKI;6111408285.0;Praktyka lekarska specjalistyczna
+D&C Electric;6112804913.0;Wykonywanie instalacji elektrycznych
+D&C PROJEKT;6112806042.0;Działalność w zakresie specjalistycznego projektowania
+D&E PARTNER;6112809595.0;Działalność związana z pakowaniem
+D&L SERVICE;6112797030.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+D&S Studio Obrazu;8391794906.0;Działalność fotograficzna
+DACH-POL;6112656996.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+DACHY -;6112803150.0;Wykonywanie konstrukcji i pokryć dachowych
+DACHY OK;6112502862.0;Wykonywanie konstrukcji i pokryć dachowych
+Dagles;6131444516.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+DAG-MAR;6111581316.0;Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
+DALCO;6112380577.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+DAL-PACK;6112722836.0;Działalność związana z pakowaniem
+DAM - WIS;6111245541.0;Działalność pogotowia ratunkowego
+DANIEL`S;6111301274.0;Realizacja projektów budowlanych związanych ze wznoszeniem budynków
+DAN-MAT;6111345596.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+DAR;6112551553.0;Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach
+DARBUD;6111806092.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+BUD-DACH;6111897893.0;Realizacja projektów budowlanych związanych ze wznoszeniem budynków
+Usługi Remontowo-Budowlane G&D Home;6110003221.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+DARK ESTRELLA;6112681847.0;Działalność fotograficzna
+DAR-MAR;6112317544.0;Przeładunek towarów w pozostałych punktach przeładunkowych
+DAR-POL TRANSPORT-HOTELARSTWO;6111012133.0;Działalność taksówek osobowych
+D-A-S;6161378818.0;Działalność związana z tłumaczeniami
+DASAVEMED;6111346874.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+BRONZEL;6462339523.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+HomeExpert;6112610451.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+GABINET KOSMETYCZNY;8411217716.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+DORADO;6112299088.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+ZŁOTA RĄCZKA;6111444795.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+RAT.-MED;6111179554.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+DECOCO FUH;1231148631.0;Wykonywanie pozostałych instalacji budowlanych
+DECOR4YOU;6112161622.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+DEKARSTWO BLACHARSTWO;6112579669.0;Wykonywanie konstrukcji i pokryć dachowych
+DEKORA;6110200453.0;Sprzedaż hurtowa wyrobów tekstylnych
+DELIKATESY SAS;7591180605.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+HASTER AGENCJA REKLAMOWA;6111009177.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+Design;6112813898.0;Działalność w zakresie specjalistycznego projektowania
+DEX;6111741300.0;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+DIAGNOSTYKA OBRAZOWA;6112817548.0;Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana
+Diagnoza i Terapia Logopedyczna i Pedagogiczna;6111127422.0;Działalność wspomagająca edukację
+CREDO;6112081254.0;Sprzedaż hurtowa niewyspecjalizowana
+DIGAN;6112240126.0;Działalność usługowa wspomagająca transport lądowy
+DIMGS;6112461821.0;Działalność związana z oprogramowaniem
+DINER FIRMA HANDLOWA;6111072023.0;Sprzedaż hurtowa elektrycznych artykułów użytku domowego
+DIVEMED;6111828107.0;Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
+DIVERSO USŁUGI;6112384262.0;Działalność pokojów zagadek, domów strachu, miejsc do tańczenia i w zakresie innych form rozrywki lub rekreacji organizowanych w pomieszczeniach lub w innych miejscach o zamkniętej przestrzeni
+DJPS 3.0;6112719136.0;Działalność wspomagająca wystawianie przedstawień artystycznych
+DJ'S SOUND SYSTEM;6111619757.0;Wykonywanie instalacji elektrycznych
+DK;6111408799.0;Wykonywanie konstrukcji i pokryć dachowych
+D-K Engineering;6112384115.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+AMERICAN.PL;6131029697.0;Działalność związana z oprogramowaniem
+PROFUS PRACOWNIA PROJEKTOWA;6111043292.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+DM-;6111004665.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+GLOBAL POINT;6112420118.0;Produkcja pozostałych wyrobów tekstylnych, gdzie indziej niesklasyfikowana
+DMSOFTWARE -;8172154124.0;Działalność związana z oprogramowaniem
+Dobra kreska;6112330680.0;Działalność w zakresie specjalistycznego projektowania
+Dobra opieka;6112287228.0;Pomoc społeczna bez zakwaterowania dla osób w podeszłym wieku i osób niepełnosprawnych
+TERDO;6112225977.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+AGENCJA SPORTOWA BASKET;6111657143.0;Pozostała działalność związana ze sportem
+DOBRY ADRES;6112814366.0;Pośrednictwo w obrocie nieruchomościami
+Dobry Zarządca.;6111530365.0;Zarządzanie nieruchomościami wykonywane na zlecenie
+COMPUTER SERVICE;6111094639.0;Działalność związana z zarządzaniem urządzeniami informatycznymi
+FIRMA HANDLOWO-USŁUGOWA NETCOM SYSTEMY TELEINFORMATYCZNE;6112255352.0;Wykonywanie instalacji elektrycznych
+JARO;6110100361.0;Sprzedaż hurtowa wyrobów tekstylnych
+DZIECIĘCA KRAINA;6111043665.0;Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
+SOLO PRZEDSIĘBIORSTWO PRODUKCYJNO-HANDLOWO-USŁUGOWE;6111017981.0;Sprzedaż hurtowa odpadów i złomu
+DOMIKKO USŁUGI OGÓLNOBUDOWLANE I INSTALACYJNE;6111381209.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+IMPORT-EKSPORT EAST;6112503554.0;Działalność agentów zajmujących się sprzedażą drewna i materiałów budowlanych
+- Ekspert Finansowy;6112817560.0;Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+COLOROWE APARTAMENTY;5981471019.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+BHP PARTNER;6121603315.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+EVENT DESIGNER & FLORIST;6112273321.0;Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach
+lek. dent. DOMIDENT;7361718892.0;Praktyka lekarska dentystyczna
+DOMOST PRACOWNIA USŁUG BUDOWLANYCH;6111019520.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+DORABIANIE KLUCZY;6111488864.0;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+DORABIANIE KLUCZY, OSTRZENIE NOŻY KUCHENNYCH, NOŻYCZEK I NOŻY Z SITKAMI OD MASZYNEK DO MIĘSA;6111025360.0;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+DORADCA RESTRUKTURYZACYJNY;6141221019.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+DORADZTWO HANDLOWE PROFESSMAR;6112409849.0;Handel energią elektryczną
+DORADZTWO I RESTRUKTURYZACJA;8731234053.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+DORADZTWO RESTRUKTURYZACYJNE;6111590278.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+DORADZTWO TECHNICZNE PE INSTALATORSTWO ELEKTRYCZNE;6112097798.0;Wykonywanie instalacji elektrycznych
+DORADZTWO UBEZPIECZENIOWO - FINANSOWE;6111787590.0;Działalność agentów i brokerów ubezpieczeniowych
+DORNET SYSTEMY TELEKOMUNIKACYJNE;6111841214.0;Działalność w zakresie telekomunikacji przewodowej
+NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ SPECJALISTA;6111546627.0;Praktyka lekarska specjalistyczna
+- GABINET PEDIATRYCZNY I ALERGOLOGICZNY (PRAKTYKA LEKARSKA SPECJALISTYCZNA);6111026247.0;Praktyka lekarska specjalistyczna
+Kosmetologia Holistyczna;6112624281.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+HANDEL HURTOWY I DETALICZNY, SKLEP CIUCH;6131013696.0;Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+DOZÓR PLUS;6112645662.0;Działalność pomocnicza związana z utrzymaniem porządku w budynkach
+DP Consulting;6112801079.0;Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+DR TOMSON PROFESJONALNA AUTO-KOSMETYKA;6111374936.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+AGENT UBEZPIECZENIOWY;6111079887.0;Działalność związana z oceną ryzyka i szacowaniem poniesionych strat
+DREAM CARS;6112170147.0;Sprzedaż hurtowa i detaliczna samochodów osobowych i furgonetek
+Dream Homes;8751090427.0;Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
+DROGERIA ELA ELŻBIETA ANNA GÓRAK;6112214755.0;Sprzedaż detaliczna kosmetyków i artykułów toaletowych prowadzona w wyspecjalizowanych sklepach
+DRUKARNIA EXPRESS;6112275797.0;Pozostałe drukowanie
+Drukarnia Wielkoformatowa KAW;6111064667.0;Pozostałe drukowanie
+DTH DORADZTWO TECHNICZNO-HANDLOWE inż.;6111519777.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+ZAKŁAD USŁUGOWY FELIX;6111644301.0;Naprawa i konserwacja elektronicznego sprzętu powszechnego użytku
+PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE DUKO PLUS;6111715225.0;Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych
+RADOSŁAW DUDA - KARAD;6111367155.0;Obróbka mechaniczna elementów metalowych
+TAXI OSOBOWE Nr 159;6111031840.0;Działalność taksówek osobowych
+DUO;6111058342.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+FIRMA HANDLOWO-USŁUGOWA;6111006635.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+DURO-DENT PRACOWNIA PROTETYKI DENTYSTYCZNEJ;8981483314.0;Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne
+ENGLISH CENTRE - CENTRUM JĘZYKÓW OBCYCH;6111296024.0;Nauka języków obcych
+PIONIER MEBLE;6110001044.0;Produkcja pozostałych mebli
+DREW-HURT;6111042074.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+DYDAKTYKA -;6111475904.0;Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+STUDIO-VIDEO-FILM;6111534854.0;Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych
+P.P.H.U.;6111069825.0;Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)
+FIRMA USŁUGOWO-HANDLOWA;6111439794.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+DZIAŁALNOŚĆ USŁUGOWO - HANDLOWA;6111432941.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+F.H.U IMPORT-EKSPORT INTERMAG;6111295510.0;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+DKB - DOLNOŚLĄSKA KANCELARIA BROKERSKA;6111039066.0;Działalność agentów i brokerów ubezpieczeniowych
+FIRMA MD;6111015723.0;Pozostała działalność wspomagająca ubezpieczenia i fundusze emerytalne
+DZIEŃ DOBRY;6112645403.0;Restauracje i inne stałe placówki gastronomiczne
+Firma I: USŁUGI GEODEZYJNO-KARTOGRAFICZNE TOMASZ DZIEWIĄTKA Firma II: AZYMUT S.C. USŁUGI GEODEZYJNE I KARTOGRA;8841786316.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+BIURO RACHUNKOWE;6111574629.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+FIRMA HANDLOWA;6111501719.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+HANDEL OBWOŹNY;6111006003.0;Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+DZIUPLA;6112250722.0;Przygotowywanie i podawanie napojów
+MECHANIKA POJAZDOWA;6111623285.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+E.I.T ZAKŁAD PRODUKCYJNO-USŁUGOWY;6110004953.0;Produkcja aparatury rozdzielczej i sterowniczej energii elektrycznej
+E.T.;6111722136.0;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+e-BERNARDI;6111133670.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+E-BIKE RENTAL SUDETY;6111236973.0;Wypożyczanie i dzierżawa sprzętu rekreacyjnego i sportowego
+ECONOMICO;6112632576.0;Wykonywanie konstrukcji i pokryć dachowych
+EDGE;6112815845.0;Działalność związana z oprogramowaniem
+- TŁUMACZENIA I NAUKA JĘZYKA FRANCUSKIEGO;9241398204.0;Działalność związana z tłumaczeniami
+FHU AGD,RTV MALUSZEK-SANDRA;6110152079.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+EIWELL -;9161361127.0;Transport drogowy towarów
+EKOINSTAL;6111534274.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+Ekologia;6110101277.0;Odzysk surowców z materiałów segregowanych
+EKO-NAFT PRACOWNIA GEOLOGII i OCHRONY ŚRODOWISKA;6111055289.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+EKOTERM TECHNIKA GRZEWCZA I SANITARNA;7731878206.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+Ekspert Księgowości;6112531013.0;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+ELAATER TERAPIA I EDUKACJA;6111024308.0;Działalność agencji reklamowych
+ELBAD Elektryka;6112809767.0;Wykonywanie instalacji elektrycznych
+EL-DOMO;6112564403.0;Naprawa i konserwacja elektronicznego sprzętu powszechnego użytku
+ELEKTIN;6112675717.0;Roboty związane z budową linii telekomunikacyjnych i elektroenergetycznych
+ELEKTROGRAB;6112716882.0;Instalowanie maszyn przemysłowych, sprzętu i wyposażenia
+ELEKTROMECHANIKA DARIUSZ KACZOREK, NAPRAWA SPRZĘTU AGD;6111154985.0;Naprawa i konserwacja urządzeń gospodarstwa domowego oraz sprzętu użytku domowego i ogrodniczego
+ELEKTROPIOTR;6112688588.0;Wykonywanie instalacji elektrycznych
+ELEKTROPLUS;6111744304.0;Sprzedaż hurtowa mebli, dywanów i sprzętu oświetleniowego
+ELEMB PROJEKT;6112461235.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+HOLISTIC;6793117615.0;Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
+ELGAB;6110100674.0;Produkcja pozostałej odzieży wierzchniej
+ELINTEX POLSKA;6111072709.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+ELMECH PLUS;6112656269.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+ELMECH;6111094993.0;Naprawa i konserwacja urządzeń elektrycznych
+EL-PROJECT;6312414571.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+EL-SAP;6112527394.0;Wykonywanie instalacji elektrycznych
+ELWITA;6111818505.0;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+ELZABUD;6112528962.0;Wykonywanie pozostałych robót budowlanych wykończeniowych
+SALON Fryzjersko-Kosmetyczny NEW-STYLE;6112696866.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+EMES;6112801441.0;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+EMIGA;6112405627.0;Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych
+STUDIO KOSMETYCZNE EMILIA;6111730259.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+EMK;6111799624.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+eMKa Biuro Projektowe;6112375292.0;Działalność w zakresie architektury
+EMPIRE OF FOOD;6112622075.0;Restauracje i inne stałe placówki gastronomiczne
+EMS IMPEX;6112682203.0;Sprzedaż hurtowa metali i rud metali
+ENBUD Usługi remontowo-budowlane;6112410982.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+ENERGO-INSTAL;6111000294.0;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+EngLAmb;6112674712.0;Nauka języków obcych
+English Insights;6112651355.0;Nauka języków obcych
+ENGLISH SUPPORT;6112527158.0;Nauka języków obcych
+ENTER MEBLE - produkcja mebli na wymiar;6112821337.0;Produkcja mebli kuchennych
+ENTER-NET;6112318638.0;Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych
+ENVI;6222704986.0;Pośrednictwo w obrocie nieruchomościami
+EPOXY- PARTNERS;6161363656.0;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+ERES Przedsiębiorstwo Wielobranżowe;6111281382.0;Działalność taksówek osobowych
+ERGONOMIKA;6111561064.0;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+ERYOT;6112302761.0;Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+Eskapada;6112527230.0;Działalność pilotów wycieczek i przewodników turystycznych
+ESTATE;6112511720.0;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+Esterglass;6112509775.0;Malowanie i szklenie
+WOJCIECH;6112291833.0;Działalność taksówek osobowych
+EURO TAXI;6161566187.0;Działalność taksówek osobowych
+EUROHIT MEDIA;6111129415.0;Działalność w zakresie nagrań dźwiękowych i muzycznych
+EUROTECHNIKA;6111623345.0;Sprzedaż hurtowa wyrobów metalowych oraz sprzętu i dodatkowego wyposażenia hydraulicznego i grzejnego
+Evelashes;6112230263.0;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+EVERY SKY;6631593892.0;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+BUTIK NR 5;6111205895.0;Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach
+Prywatna Praktyka Lekarska;5992408846.0;Praktyka lekarska ogólna
+USŁUGI BIUROWE;6112463487.0;Działalność usługowa związana z administracyjną obsługą biura
+SPECJALISTYCZNA PRAKTYKA PIELĘGNIARSKA;6111086924.0;Praktyka pielęgniarek i położnych
+KONCEPT HANDEL I USŁUGI;6112524651.0;Produkcja opakowań drewnianych
+Tex;6112217854.0;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+- EDU;6111786099.0;Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+Ewal;6112333371.0;Pozostałe badania i analizy techniczne
+EW-TAX;6941222291.0;Działalność agentów i brokerów ubezpieczeniowych
+EX- BUD;6482261020.0;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+EX DART - OBRAZY BEZ GRANIC;6111085161.0;Działalność agencji informacyjnych
+Expert-Bud A.G.;6111829495.0;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+EXPERT-LIFT;6112637800.0;Wykonywanie pozostałych instalacji budowlanych
+Experto BHP;6112815934.0;Sprzedaż hurtowa niewyspecjalizowana
+EXPLORE;6112521931.0;Działalność fotograficzna
+EXPRES TRANS;6112782821.0;Transport drogowy towarów
+F. HANDLOWA MODNA PANI;6111491079.0;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+F.H. EMART;6112146829.0;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+F.H.;6112806705.0;Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach
+F.H. SALONIK PRASOWY;6111799162.0;Sprzedaż detaliczna gazet i artykułów piśmiennych prowadzona w wyspecjalizowanych sklepach
+F.H.P.U.;6111028507.0;Hotele i podobne obiekty zakwaterowania
+F.H.U. ADC;6111148720.0;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+F.H.U. CHARY SYSTEM EWA CHARUŻYN SKLEP MODESA;6111573558.0;Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
